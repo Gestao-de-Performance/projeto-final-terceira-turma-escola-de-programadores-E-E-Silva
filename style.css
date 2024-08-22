@@ -1,0 +1,102 @@
+:root{
+    --azul--10: #1e42b8;
+    --prata--1: #bebdbd;
+    --branco-1: #fff;
+    
+}
+
+body{
+    margin: 0;
+    font-size: large;
+    font-family: 'Times New Roman';
+}
+    /* Começo  Footer */
+
+footer{
+    margin-top: 50px;
+}
+.containerFinal{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.containerInformacoes{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+    /* Fim Footer */
+
+/* Main - Meio do site */
+
+main{
+    margin-top: 2.6rem;
+}
+
+
+
+.divMain{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    padding: 10px;
+    height: 550px;
+    width: auto;
+    text-align: justify;
+    margin: 5% 0;
+}
+
+.divMain1{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    padding: 10px;
+    height: 550px;
+    width: auto;
+    text-align: justify;
+    padding-top: 30px;
+    margin: 8% 0;
+}
+.minhaImagem{
+    height: 350px;
+    width: 400px;
+}
+.containerDivSection{
+    gap: 1px;
+    height: 300px;
+    width: 350px;
+
+}
+
+
+
+/* Final do Main */
+
+/* Cabeça do Site apenas a parte superior */
+.container-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: var(white);
+}
+
+.logo img{
+    height: 4rem;
+}
+
+.section1 {
+    flex: 1;
+    text-align: center;
+    border: solid #1e42b8;
+    margin: 3% 2%;
+    padding: 2% 2%;
+}
+
+.margin {
+    margin: 0 1rem;
+}
+
+/* Final Do Começo do Site */
