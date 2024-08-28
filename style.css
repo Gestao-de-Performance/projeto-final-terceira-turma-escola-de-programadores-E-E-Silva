@@ -362,6 +362,11 @@ footer{
     .zerandoPadding{
         padding: 0 0 0 0;
     }
-   
+    
+    .alinhamentoMobile{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 
 }
