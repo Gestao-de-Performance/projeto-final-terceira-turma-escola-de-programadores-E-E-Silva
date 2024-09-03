@@ -1,0 +1,4 @@
+Mudanças,
+
+Adicionar um estilo ao botão do hamburguer, para não ficar tão simples.
+Centralizar as imagens das motos na versão mobile.
